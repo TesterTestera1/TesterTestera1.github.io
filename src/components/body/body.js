@@ -103,6 +103,13 @@ export default class Body extends React.Component {
             <Main visInfo={this.props?.visInfo} />
           </div>
           <div className="pendo-sales-engineering-footer">
+            <iframe 
+      src="https://example.com" 
+      title="Example Website" 
+      width="100%" 
+      height="500px" 
+      frameBorder="0"
+    ></iframe>
             <span>
               Made with{' '}
               <span>
